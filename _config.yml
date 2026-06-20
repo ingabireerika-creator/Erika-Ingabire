@@ -1,6 +1,6 @@
-title:"Erika-Ingabire"
-logo: img/Profil photo.jpg
-description: "Projet-Portfolio-Aéroworld"
-show_downloads : true
+title: "Erika-Ingabire"
+logo: img/profil-photo.jpg
+description: "Projet Portfolio Aeroworld"
+show_downloads: true
 theme: jekyll-theme-minimal
-lang:fr
+lang: fr
