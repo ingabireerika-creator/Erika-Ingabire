@@ -1,6 +1,6 @@
 # Erika INGABIRE — Data Analyst · Business Intelligence
 
-> *Transformer la donnée en levier de croissance, un dashboard à la fois.*
+> *Transformer la donnée en levier de croissance.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20mes%20projets-22C55E?style=flat&logo=github)](https://github.com/ingabireerika-creator/Erika-Ingabire)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erikaingabire-0077B5?style=flat&logo=linkedin)](http://www.linkedin.com/in/erikaingabire)
@@ -13,7 +13,7 @@
 Data Analyst BI passionnée par l'intersection entre **la donnée, le business et l'impact réel**.
 Actuellement en alternance chez **Orange Business**, j'analyse des bases de données marketing de plusieurs millions de lignes, conçois des dashboards Power BI et accompagne les équipes Sales, Marketing & Performance dans leur pilotage stratégique.
 
-Je crois qu'une bonne analyse ne s'arrête pas aux chiffres — elle raconte une histoire et déclenche une décision.
+Je crois qu'une bonne analyse ne s'arrête pas aux chiffres, elle raconte une histoire et déclenche une décision.
 
 ---
 
@@ -35,7 +35,7 @@ Je crois qu'une bonne analyse ne s'arrête pas aux chiffres — elle raconte une
 ### [Étude sur l'accès à l'eau potable dans le monde](https://github.com/ingabireerika-creator/Creation-dun-tableau-de-bord-interactif-pour-rendre-la-visualisation-disponible-et-accessible)
 `Power BI` · `DAX` · `Data viz`
 
-Analyse mondiale des inégalités d'accès à l'eau potable à partir de données OMS/UNICEF. Conception d'un dashboard Power BI interactif permettant de comparer les indicateurs par pays, région et niveau de développement — pour éclairer les décisions d'une ONG humanitaire.
+Analyse mondiale des inégalités d'accès à l'eau potable à partir de données OMS/UNICEF. Conception d'un dashboard Power BI interactif permettant de comparer les indicateurs par pays, région et niveau de développement pour éclairer les décisions d'une ONG humanitaire.
 
 ---
 
